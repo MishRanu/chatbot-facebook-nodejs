@@ -1,7 +1,7 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    API_AI_CLIENT_ACCESS_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: "",
+    FB_PAGE_TOKEN: 'EAADOeS6Xo8QBAPOOYrwCv7dIwcIXrOAuBzBzQX9FboI9SvvB8DOHj4Vb1Gi6vpW1sH2lhwSPeZAbTaCg8ZBa0eQfgSNqwID7ak2efeKnZCR3q53sZA5a19UVELEFwX1TuKZCJCOuMgViX28EdOXxdMF1K0XZBnhJA2ZBvuQA6cHnniclmLRJmnf',
+    FB_VERIFY_TOKEN: 'programmingisthebest91@@91',
+    API_AI_CLIENT_ACCESS_TOKEN: 'c9cd8a1f92474b3188624afd4c5816db',
+    FB_APP_SECRET: 'de5b417aa33a412073a8f33c436ec1b6',
+    SERVER_URL: "https://salty-ridge-37916.herokuapp.com/",
 };
